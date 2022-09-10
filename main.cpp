@@ -1,5 +1,6 @@
 #include <iostream>
-#include "prototype.h"
+#include "vector.h"
+#include "vector.cpp"
 
 int main(){
 

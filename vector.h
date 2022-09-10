@@ -1,5 +1,5 @@
-#ifndef PROTOTYPE_H
-#define PROTOTYPE_H
+#ifndef VECTOR_H
+#define VECTOR_H
 
 template <class T>
 class Vector131{
