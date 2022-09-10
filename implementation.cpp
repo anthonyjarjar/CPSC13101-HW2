@@ -86,5 +86,5 @@ void Vector131<T>::PushFront(T t){
 
 template <class T>
 int Vector131<T>::Size(){
- return lengthOfArray; 
+    return lengthOfArray; 
 }

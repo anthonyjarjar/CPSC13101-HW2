@@ -1,4 +1,5 @@
-#include <iostream>
+#ifndef PROTOTYPE_H
+#define PROTOTYPE_H
 
 template <class T>
 class Vector131{
@@ -15,3 +16,5 @@ class Vector131{
         T& operator[](int index);
         int Size();
 };
+
+#endif
